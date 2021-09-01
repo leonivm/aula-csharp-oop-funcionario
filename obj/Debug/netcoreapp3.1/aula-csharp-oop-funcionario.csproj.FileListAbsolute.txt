@@ -1,0 +1,13 @@
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\bin\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.exe
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\bin\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.deps.json
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\bin\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.runtimeconfig.json
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\bin\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.runtimeconfig.dev.json
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\bin\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.dll
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\bin\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.pdb
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\obj\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.csprojAssemblyReference.cache
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\obj\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.AssemblyInfoInputs.cache
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\obj\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.AssemblyInfo.cs
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\obj\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.csproj.CoreCompileInputs.cache
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\obj\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.dll
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\obj\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.pdb
+C:\Users\leoni\OneDrive\workspace\aula-csharp-oop-funcionario\obj\Debug\netcoreapp3.1\aula-csharp-oop-funcionario.genruntimeconfig.cache
